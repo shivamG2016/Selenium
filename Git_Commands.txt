@@ -1,0 +1,17 @@
+https://github.com/shivamG2016/selenium2.git
+
+Basic Configuratin commands for git hub:
+
+git config --global user.name "ShivamG2016" 
+
+This will setup username for my Git account
+
+Gid add FirstFile.txt
+
+git commit -m "my first commit" FirstFile.txt
+
+git status
+
+git push -u origin master
+
+after this for first time enter user name and password
